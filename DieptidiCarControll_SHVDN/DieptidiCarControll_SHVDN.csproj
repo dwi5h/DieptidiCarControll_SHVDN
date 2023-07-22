@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DieptidiBaseMenu_SHVDN">
+      <HintPath>..\..\_Build\DieptidiBaseMenu_SHVDN.dll</HintPath>
+    </Reference>
     <Reference Include="DieptidiUtility_SHVDN">
       <HintPath>..\..\_Build\DieptidiUtility_SHVDN.dll</HintPath>
     </Reference>
